@@ -54,7 +54,7 @@ int main()
     	s1.pop();
 	}
     Sort_Stack(S);
-    cout<<"\n\n\nStack elements after reversing are : ";
+    cout<<"\n\n\nStack elements after sorting are : ";
     while (!S.empty())
     {
         cout << S.top() << " ";
